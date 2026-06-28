@@ -1,0 +1,10 @@
+{
+  "name": "Liste RELIER",
+  "short_name": "RELIER",
+  "description": "Projet collectif pour l'IAE Aix-Marseille.",
+  "lang": "fr",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1d4ed8",
+  "background_color": "#ffffff"
+}
