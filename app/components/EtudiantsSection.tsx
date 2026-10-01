@@ -25,8 +25,7 @@ export default function EtudiantsSection() {
           onClick={() => setIsOpen(!isOpen)}
         >
           <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold text-blue-900 text-center flex-1">
-            Les étudiants au centre, avec une gouvernance
-            assumée
+            Les étudiants au centre du projet pour l'IAE
           </h2>
           <svg
             className={`w-8 h-8 text-blue-900 transition-transform duration-300 flex-shrink-0 ml-4 ${isOpen ? "rotate-180" : ""}`}
@@ -90,8 +89,7 @@ export default function EtudiantsSection() {
                       -
                     </span>
                     <span>
-                      Création d'un statut de délégué étudiant
-                      intégré à la gouvernance
+                      Intégrer des étudiants à la gouvernance de l'IAE
                     </span>
                   </li>
                   <li className="flex gap-2">
@@ -99,9 +97,7 @@ export default function EtudiantsSection() {
                       -
                     </span>
                     <span>
-                      Renforcement des liens entre vie
-                      étudiante, équipes pédagogiques, BIATSS et
-                      direction
+                      Apporter des réponses concrètes et réalistes aux problématiques étudiantes
                     </span>
                   </li>
                   <li className="flex gap-2">
@@ -109,8 +105,7 @@ export default function EtudiantsSection() {
                       -
                     </span>
                     <span>
-                      Refonte et adaptation du rythme de
-                      l’alternance
+                      Respecter l'autonomie et l'indépendance des associations 
                     </span>
                   </li>
                   <li className="flex gap-2">
@@ -118,7 +113,7 @@ export default function EtudiantsSection() {
                       -
                     </span>
                     <span>
-                      Développement d'espaces d'échange
+                      Développer des espaces d'échange
                       réguliers entre étudiants et alumni
                     </span>
                   </li>
@@ -136,7 +131,7 @@ export default function EtudiantsSection() {
                       -
                     </span>
                     <span>
-                      Attention renforcée aux parcours
+                      Attention accrue aux parcours
                       individuels et aux situations
                       particulières
                     </span>
@@ -146,8 +141,7 @@ export default function EtudiantsSection() {
                       -
                     </span>
                     <span>
-                      Maintien d'un accompagnement de proximité
-                      qui fait notre force
+                      Accompagnement renforcé et efficace à la recherche d'alternance et de stages
                     </span>
                   </li>
                   <li className="flex gap-2">
@@ -155,8 +149,8 @@ export default function EtudiantsSection() {
                       -
                     </span>
                     <span>
-                      Développement de la Formation Tout au Long
-                      de la Vie, notamment pour nos alumni
+                      Refonte et adaptation du rythme de
+                      l’alternance
                     </span>
                   </li>
                   <li className="flex gap-2">
@@ -164,7 +158,7 @@ export default function EtudiantsSection() {
                       -
                     </span>
                     <span>
-                      Adapter les formations aux transformations
+                      Intégration des transformations
                       liées aux défis de l'anthropocène et de
                       l’IA.
                     </span>
@@ -183,8 +177,7 @@ export default function EtudiantsSection() {
                       -
                     </span>
                     <span>
-                      Soutien structuré aux associations
-                      étudiantes
+                      Des associations soutenues par l'IAE en respectant leur autonomie
                     </span>
                   </li>
                   <li className="flex gap-2">
@@ -249,8 +242,8 @@ export default function EtudiantsSection() {
                       -
                     </span>
                     <span>
-                      Protection des équilibres humains et
-                      institutionnels
+                      Maintien d'un accompagnement de proximité
+                      qui fait notre force
                     </span>
                   </li>
                   <li className="flex gap-2">

@@ -11,8 +11,7 @@ export default function HeroSection() {
       </div>
 
       <p className="absolute top-4 md:top-8 left-0 right-0 text-center text-base md:text-xl lg:text-2xl text-white leading-relaxed drop-shadow-md z-10 px-4 md:px-8">
-        IAE Aix-Marseille : élections du Conseil d'Institut du 2
-        Juin 2026
+        IAE Aix-Marseille : élections du Conseil d'Institut 
       </p>
 
       <div className="relative z-10 max-w-4xl text-center space-y-4 md:space-y-6 px-4">
@@ -20,7 +19,7 @@ export default function HeroSection() {
           Liste RELIER
         </h1>
 
-        <p className="text-base md:text-lg lg:text-xl text-white/90 drop-shadow-md mb-8 md:mb-12">
+        <p className="text-2xl md:text-3xl lg:text-4xl font-semibold text-white/90 drop-shadow-md mb-8 md:mb-12">
           Représentée par Cécile BOZZO
         </p>
 

@@ -61,6 +61,14 @@ export default function Header() {
               >
                 Témoignages
               </Link>
+            <a
+              href="https://forms.gle/QifSf21tYbjteGbZ6"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-4 py-2 bg-amber-400 text-blue-950 rounded-lg hover:bg-amber-300 transition font-bold text-sm whitespace-nowrap shadow-md shadow-amber-900/20 ring-1 ring-amber-300"
+            >
+              Nous soutenir
+            </a>
           </div>
 
           {/* Bouton Menu Mobile */}
@@ -135,6 +143,15 @@ export default function Header() {
               >
                 Témoignages
               </Link>
+              <a
+                href="https://forms.gle/QifSf21tYbjteGbZ6"
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => setMobileMenuOpen(false)}
+                className="px-4 py-2 bg-amber-400 text-blue-950 rounded-lg hover:bg-amber-300 transition font-bold text-sm text-center shadow-md shadow-amber-900/20 ring-1 ring-amber-300"
+              >
+                Nous soutenir
+              </a>
             </div>
           </div>
         )}
