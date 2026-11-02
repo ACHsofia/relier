@@ -125,6 +125,11 @@ export const soutiens = [
     poste: "Ingénieur commercial",
   },
   {
+    nom: "Arthur BARRALIS",
+    formation: "MSc Marketing & Brand Management 2025",
+    poste: "PMO chez Airbus Helicopters",
+  },
+  {
     nom: "Arthur COTREL",
     formation: "MSc International Business 2024",
     poste: "Salarié",
@@ -154,6 +159,11 @@ export const soutiens = [
     formation:
       "MSc Corporate Communication & Change Management 2017, M2 Recherche en Marketing 2018",
     poste: "Entrepreneur et formateur",
+  },
+  {
+    nom: "Benjamin ALLOUCHE",
+    formation: "MSc Corporate Communication & Change Management 2019",
+    poste: "Chef de Projet Informatique",
   },
   {
     nom: "Betty CADO",
@@ -233,9 +243,19 @@ export const soutiens = [
     poste: "Senior Manager PwC",
   },
   {
+    nom: "Christiane ASSAF",
+    formation: "Master 1 Recherche 2014",
+    poste: "Entrepreneur",
+  },
+  {
     nom: "Christophe POPESCU",
     formation: "MSc1 International Business 2024",
     poste: "BDR chez HubSpot",
+  },
+  {
+    nom: "Cidjy ANTON",
+    formation: "MSc2 International Business 2020",
+    poste: "Key Account Manager",
   },
   {
     nom: "Claire GIRAUD",
@@ -253,14 +273,14 @@ export const soutiens = [
     poste: "Product marketing engineer",
   },
   {
-    nom: "Clémence PETIT",
-    formation: "MSc Ressources Humaines 2017",
-    poste: "Responsable RH",
-  },
-  {
     nom: "Clémence PERONNET",
     formation: "MSc Management et Marketing des Services 2017",
     poste: "Directrice marketing chez JNPR",
+  },
+  {
+    nom: "Clémence PETIT",
+    formation: "MSc Ressources Humaines 2017",
+    poste: "Responsable RH",
   },
   {
     nom: "Clément CIGLIANO",
@@ -283,6 +303,11 @@ export const soutiens = [
     formation:
       "MSc International Business / Kelley Business School 2020",
     poste: "Entrepreneur",
+  },
+  {
+    nom: "Danie ANDRIANARIVO",
+    formation: "MSc International Business 2021",
+    poste: "Senior account manager at Amazon",
   },
   {
     nom: "Diane LE SCOUARNEC",
@@ -316,6 +341,11 @@ export const soutiens = [
     poste: "Responsable de secteur",
   },
   {
+    nom: "Emilie SCHEFFER",
+    formation: "MSc contrôle de gestion 2020",
+    poste: "Contrôleuse de gestion",
+  },
+  {
     nom: "Emma BARBEAU",
     formation: "MSc Ressources Humaines 2024",
     poste: "Coordinatrice RH",
@@ -339,6 +369,11 @@ export const soutiens = [
     nom: "Emma ROUILLARD",
     formation: "MSc International Business 2019",
     poste: "Consultante en stratégie",
+  },
+  {
+    nom: "Emmanuel POGGIO",
+    formation: "MSc International Business2022",
+    poste: "Commercial en publicité digital chez RMC BFM (médias)",
   },
   {
     nom: "Ethan OLLIVIER",
@@ -605,6 +640,11 @@ export const soutiens = [
     poste: "VIE Junior Brand Manager chez Savencia en Belgique",
   },
   {
+    nom: "Justine UFARTE",
+    formation: "MSc International Business 2022",
+    poste: "Area Manager B2B",
+  },
+  {
     nom: "Justine COULPIER",
     formation: "MSc Management et marketing des services 2023",
     poste: "Cheffe de marque - Agroalimentaire bio",
@@ -803,6 +843,11 @@ export const soutiens = [
     poste: "Responsable RH",
   },
   {
+    nom: "Mateo LARRIEU",
+    formation: "MsC IB - promotion 2024",
+    poste: "Acheteur industriel / Chef de projet",
+  },
+  {
     nom: "Mathias AUFFRAY",
     formation: "MSc International Business 2019",
     poste: "Responsable Jumeaux Numériques",
@@ -881,6 +926,11 @@ export const soutiens = [
     poste: "Chargée RH",
   },
   {
+    nom: "Miguel Angel PINZON MELO",
+    formation: "MSc2 International Business 2018",
+    poste: "Business Development Manager - Maersk",
+  },
+  {
     nom: "Mihaela RADICA",
     formation: "MSc Marketing & Brand Management 2025",
     poste: "Employee CDI",
@@ -925,6 +975,11 @@ export const soutiens = [
     nom: "Olivia MIGAUD",
     formation: "MSc International Business 2022",
     poste: "Responsable Famille Achats",
+  },
+  {
+    nom: "Paul ELBAZ",
+    formation: "MSc Audit interne et Management du Risque 2022",
+    poste: "Conseiller en Gestion de Patrimoine",
   },
   {
     nom: "Paul GAUTHIER",
@@ -987,6 +1042,11 @@ export const soutiens = [
     formation:
       "MSc Management et Marketing des activités de service 2021",
     poste: "Consultante en cybersécurité",
+  },
+  {
+    nom: "Romain COLLIAC",
+    formation: "MSc Management et Marketing des activités de service 2016",
+    poste: "Développement commercial en coopérative d’électricité renouvelable",
   },
   {
     nom: "Romain PILAT",
@@ -1061,6 +1121,11 @@ export const soutiens = [
     poste: "IT Project Manager",
   },
   {
+    nom: "Thomas BRUNET",
+    formation: "MSc Marketing & Brand Management 2020",
+    poste: "Chef de projet Trade Marketing",
+  },
+  {
     nom: "Thomas BRUNO",
     formation: "MSc Management Général 2024",
     poste: "",
@@ -1109,6 +1174,11 @@ export const soutiens = [
     nom: "Vanessa FAVIER",
     formation: "MSc Marketing & Brand Management 2025",
     poste: "Chef de produit développement soin",
+  },
+  {
+    nom: "Victor CHAPON",
+    formation: "MSc International Finance 2021",
+    poste: "Développeur immobilier",
   },
   {
     nom: "Victor COCHETEUX",
@@ -1163,7 +1233,6 @@ export const etAussi = [
   "Anna",
   "Anne-Cécile",
   "Antoine B.",
-  "Arthur",
   "Bao",
   "Barbara",
   "Bérénice",
@@ -1195,6 +1264,7 @@ export const etAussi = [
   "Farah",
   "Faratiana",
   "Garance",
+  "Geoffroy",
   "Gino",
   "Guillaume",
   "Hugo",
@@ -1256,12 +1326,10 @@ export const etAussi = [
   "Sirine",
   "Sofia",
   "Soline",
-  "Thomas B.",
-  "Thomas K.",
+  "Thomas",
   "Tristan",
   "Valentine",
   "Valentine",
-  "Victor C.",
   "Victor W.",
   "Victoria",
   "Xavie",
