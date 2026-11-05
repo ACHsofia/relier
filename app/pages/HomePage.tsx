@@ -13,14 +13,14 @@ export default function HomePage() {
   return (
     <main className="pt-20">
       <HeroSection />
+      <ConvictionFinale />
       <CollegesSection />
       <EtudiantsSection />
-      <RechercheSection />
       <AmUSection />
+      <RechercheSection />
       <AccreditationsSection />
       <CollectifSection />
       <EntretiensSection />
-      <ConvictionFinale />
       <SoutiensPopup />
     </main>
   );

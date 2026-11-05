@@ -25,8 +25,7 @@ export default function AmUSection() {
           onClick={() => setIsOpen(!isOpen)}
         >
           <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold text-blue-900 text-center flex-1">
-            Un IAE pleinement inscrit dans amU sans renoncer à son
-            identité
+            Une école universitaire, une autonomie à préserver
           </h2>
           <svg
             className={`w-8 h-8 text-blue-900 transition-transform duration-300 flex-shrink-0 ml-4 ${isOpen ? 'rotate-180' : ''}`}
@@ -49,26 +48,15 @@ export default function AmUSection() {
           </h3>
           <div className="space-y-4 text-gray-700 leading-relaxed">
             <p>
-              Nous avons la chance d'appartenir à Aix-Marseille
-              Université, une université d'envergure internationale qui constitue un écosystème académique,
-              scientifique et institutionnel d'une richesse
-              exceptionnelle. Par sa taille, sa diversité
-              disciplinaire, son ouverture internationale et sa
-              capacité de transformation, amU représente une
-              opportunité stratégique majeure pour l'IAE.
+              L'IAE Aix est une école universitaire de management. Son appartenance à Aix-Marseille Université et son autonomie ne sont pas contradictoires : elles sont constitutives de son statut et protégées par l'article L.713-9 du Code de l'éducation. Opposer ces deux dimensions revient à méconnaître le statut même de notre école. 
             </p>
             <p>
-              Nous ne tirons probablement pas encore tout le
-              parti possible de cet environnement.
+              Dans un environnement universitaire de plus en plus concurrentiel et internationalisé, aucune école ne peut durablement se développer en restant isolée. Le repli sur soi n'est pas une garantie d'indépendance : c'est un risque d'affaiblissement. 
             </p>
             <p>
-              L'enjeu pour l'IAE comme pour amU n'est pas de
-              diluer notre identité dans celle de l'université.
-              L'enjeu est au contraire de mieux mobiliser les
-              ressources, les réseaux, les financements et les
-              expertises qu'amU peut offrir afin de renforcer
-              notre singularité, notre visibilité et notre
-              capacité d'action.
+            <strong>
+            Notre ambition n'est pas de choisir entre autonomie et appartenance à amU, mais de tirer pleinement parti des deux. 
+            </strong>
             </p>
           </div>
         </div>

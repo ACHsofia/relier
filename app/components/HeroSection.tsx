@@ -11,7 +11,7 @@ export default function HeroSection() {
       </div>
 
       <p className="absolute top-4 md:top-8 left-0 right-0 text-center text-base md:text-xl lg:text-2xl text-white leading-relaxed drop-shadow-md z-10 px-4 md:px-8">
-        IAE Aix-Marseille : élections du Conseil d'Institut 
+        IAE Aix : élections du Conseil d'Institut 16/11/2026 
       </p>
 
       <div className="relative z-10 max-w-4xl text-center space-y-4 md:space-y-6 px-4">
@@ -23,35 +23,6 @@ export default function HeroSection() {
           Représentée par Cécile BOZZO
         </p>
 
-        <div className="mt-12 md:mt-20 pt-8 md:pt-12">
-          <p className="text-sm md:text-base lg:text-lg text-white leading-relaxed drop-shadow-md">
-            Pour un IAE ancré dans la{" "}
-            <span className="text-base md:text-lg lg:text-xl font-bold">
-              R
-            </span>
-            echerche, l'
-            <span className="text-base md:text-lg lg:text-xl font-bold">
-              E
-            </span>
-            xcellence, la{" "}
-            <span className="text-base md:text-lg lg:text-xl font-bold">
-              L
-            </span>
-            égitimité universitaire et l'
-            <span className="text-base md:text-lg lg:text-xl font-bold">
-              I
-            </span>
-            nternational au service des{" "}
-            <span className="text-base md:text-lg lg:text-xl font-bold">
-              E
-            </span>
-            tudiants et du{" "}
-            <span className="text-base md:text-lg lg:text-xl font-bold">
-              R
-            </span>
-            ayonnement collectif.
-          </p>
-        </div>
       </div>
     </section>
   );

@@ -12,8 +12,8 @@ export const siteConfig = {
     "Liste RELIER, conduite par Cécile Bozzo, pour l'IAE Aix-Marseille : recherche, excellence, légitimité universitaire, international, étudiants et rayonnement collectif.",
   navItems: [
     { label: "Étudiants", hash: "etudiants" },
-    { label: "Recherche", hash: "recherche" },
     { label: "Université", hash: "amu" },
+    { label: "Recherche", hash: "recherche" },
     { label: "Accréditations", hash: "accreditations" },
     { label: "Collectif", hash: "collectif" },
   ],
